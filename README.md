@@ -1,5 +1,5 @@
 # Seminar Mobile Developing
-
+# Link GitHub: https://github.com/tranngocbaoduy/MDSeminar
 - JP App là folder chứa code chương trình minh hoạ ứng dụng Học ngoại ngữ
     * Để chạy được folder này chúng ta cần:
     1. Chạy npm install để cài đặt hết tất cả package cần thiết để build được chương trình
